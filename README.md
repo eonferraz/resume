@@ -1,4 +1,4 @@
-# Currículo / Resume – Paulo Eduardo de Oliveira Ferraz
+# Paulo Eduardo de Oliveira Ferraz
 
 🎯 Especialista em Tecnologia, Dados e Automação de Negócios
 
