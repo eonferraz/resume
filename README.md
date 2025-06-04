@@ -24,8 +24,9 @@ I’m an experienced technology leader focused on data analysis, business intell
 ## 🔗 Contatos / Contacts
 
 - Email: paulo.ferraz@email.com  
-- LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)  
-- GitHub: [github.com/seu-usuario](https://github.com/seu-usuario)
+- LinkedIn: [linkedin.com/in/eonferraz](https://linkedin.com/in/eonferraz)  
+- GitHub: [github.com/eonferraz](https://github.com/eonferraz)
+- Phone: [Whatsapp](wa.me/+5512997643380)
 
 ---
 
