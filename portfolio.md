@@ -50,10 +50,6 @@ Sou um profissional multidisciplinar apaixonado por **resolver problemas complex
 
 ### 🔹 **Classificação DRE Automatizada**
 > Mapeamento de grupos contábeis com regras de rateio entre áreas (ADM, COM, IND, PRD) para geração de DRE gerencial.
-
-### 🔹 **Orçamento Neogen (CRM de Testes Genéticos)**
-> Estruturação de telas, etapas, plano de pagamento e cálculo de esforço técnico para um sistema de pedidos customizados.
-
 ---
 
 ## 🌎 Idiomas
